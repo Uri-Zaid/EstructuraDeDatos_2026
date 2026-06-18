@@ -1,0 +1,9 @@
+# Carpetas de compilación de C#
+[Bb]in/
+[Oo]bj/
+
+# Archivos de configuración de Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
